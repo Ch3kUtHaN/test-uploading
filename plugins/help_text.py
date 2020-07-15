@@ -44,8 +44,8 @@ async def help_user(bot, update):
         reply_to_message_id=update.message_id,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton('⭐OUR Bots⭐', url='https://t.me/Dhashamoolam_Media')],
-                [InlineKeyboardButton('Report Errors', url='https://t.me/dhashamoolams_bot')],
+                [InlineKeyboardButton('My Father', url='https://t.me/ChEkUtHaN')],
+                [InlineKeyboardButton('Update Cannel', url='https://t.me/BotUpdatez')],
             ]
        )
    )
@@ -74,8 +74,8 @@ async def start(bot, update):
         reply_to_message_id=update.message_id,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton('⭐OUR Bots⭐', url='https://t.me/Dhashamoolam_Media')],
-                [InlineKeyboardButton('Report Errors', url='https://t.me/dhashamoolams_bot')],
+                [InlineKeyboardButton('My Father', url='https://t.me/ChEkUtHaN')],
+                [InlineKeyboardButton('Update Channel', url='https://t.me/BotUpdatez')],
             ]
         )
 
