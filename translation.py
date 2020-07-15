@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ Hi **{}**,\n\nFor more details hit /help
+    START_TEXT = """ Hi **{}**,\n\nFor more details hit /help"""
 
 
 
